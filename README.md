@@ -47,13 +47,13 @@ The dashboard includes the following visualizations:
 
 ## Files
 
-- `tableau/music_mental_health_dashboard.twbx`: The Tableau workbook file.
-- `data/`: Directory for any raw data files used.
-- `images/music-mental-health-dashboard.png`: Image of the dashboard.
+- `https://github.com/ANKIT-2801/Music_mental_health_dashboard/blob/main/Music%20X%20Mental%20Health%20-%20For%20Public.twbx`: The Tableau workbook file.
+- `https://github.com/ANKIT-2801/Music_mental_health_dashboard/blob/main/Music%20X%20Mental%20health.csv`: Directory for any raw data files used.
+- `https://github.com/ANKIT-2801/Music_mental_health_dashboard/blob/main/Screenshot%202024-06-18%20140914.png`: Image of the dashboard.
 
 ## Instructions
 
-1. Open the `music_mental_health_dashboard.twbx` file in Tableau.
+1. Open the `https://github.com/ANKIT-2801/Music_mental_health_dashboard/blob/main/Music%20X%20Mental%20Health%20-%20For%20Public.twbx` file in Tableau.
 2. Explore the different visualizations to understand the relationship between music and mental health.
 
 ## Dependencies
@@ -65,11 +65,7 @@ The dashboard includes the following visualizations:
 - Data collection by @catherinerasgaitis.
 - Survey distribution via Reddit, Discord, and social media platforms.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 
-For any questions or feedback, please contact [Your Name] at [Your Email].
+For any questions or feedback, please contact Ankit Chauhan at ankit.chauhan2801@gmail.com.
 
