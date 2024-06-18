@@ -53,7 +53,7 @@ The dashboard includes the following visualizations:
 
 ## Instructions
 
-1. Open the `https://github.com/ANKIT-2801/Music_mental_health_dashboard/blob/main/Music%20X%20Mental%20Health%20-%20For%20Public.twbx` file in Tableau.
+1. Open the `https://public.tableau.com/views/MusicXMentalHealth_17187474583270/Dashboard3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link` file in Tableau.
 2. Explore the different visualizations to understand the relationship between music and mental health.
 
 ## Dependencies
