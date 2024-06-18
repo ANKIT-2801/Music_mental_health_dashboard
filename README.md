@@ -35,7 +35,7 @@ Data collection was managed by @catherinerasgaitis via a Google Form. Respondent
 
 ## Dashboard Overview
 
-![Dashboard Image](./images/music-mental-health-dashboard.png)
+![Dashboard Image](https://github.com/ANKIT-2801/Music_mental_health_dashboard/blob/main/Screenshot%202024-06-18%20140914.png)
 
 The dashboard includes the following visualizations:
 
